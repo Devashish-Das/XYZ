@@ -1,0 +1,518 @@
+marquee {
+    color: #03adfc;
+    background-color: #00ff00;
+}
+
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 20px
+}
+
+.link:hover {
+    background-color: red;
+    font-size: 24px;
+}
+
+#Charizard {
+    display: inline;
+    color: white;
+}
+
+#Charizard:hover {
+    background: linear-gradient(lightblue 0%, lightgreen 50%, yellow 100%);
+    font-size: 25px;
+    color: black;
+}
+
+#Charizard3 {
+    display: inline;
+    color: white;
+}
+
+#Charizard3:hover {
+    background: linear-gradient(red 0%, orange 50%, magenta 100%);
+    font-size: 25px;
+    color: white;
+}
+
+#Charizard4 {
+    display: inline;
+    color: black;
+}
+
+#Charizard4:hover {
+    background: linear-gradient(Yellow 0%, Orange 50%, lightgreen 100%);
+    font-size: 25px;
+}
+
+.nav navbar-nav {
+    position: fixed;
+    background: linear-gradient(red 0%, yellow 100%);
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 999999999;
+
+}
+
+#Charizard1 {
+    width: 200px;
+    border: 1px solid white;
+}
+
+#Charizard2 {
+    width: 200px;
+    border: 1px solid black;
+}
+
+#DD {
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.DEV {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 20px;
+}
+
+.🍋🍋🍋 {
+    background: linear-gradient(white, snow);
+}
+
+#DEVASHISHMEDAL {
+    width: 500px;
+    margin-bottom: 30px;
+}
+
+#ALOK {
+    background: linear-gradient(#89f7fe 0%, #66a6ff 100%);
+}
+
+#DDDDD {
+    margin-left: 100px;
+}
+
+H3 {
+    color: red;
+}
+
+#Infernape {
+    background: linear-gradient(#89f7fe 0%, #66a6ff 100%);
+}
+
+#Sceptile {
+    width: 200px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.Campus_life_mainDiv {
+    float: left;
+    width: 33.30%;
+    padding: 5px;
+}
+
+.Acheivments {
+    font-size: 24px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.Acheivments i {
+    float: right;
+}
+
+.Acheivement1235 {
+    padding-bottom: 10px;
+}
+
+
+.Pikachu {
+    color: #ff7700;
+}
+
+#Blaziken {
+    color: #fbff00;
+}
+
+#Greninja {
+    width: 100%;
+}
+
+.Acheivments2 {
+    font-size: 24px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.Acheivments2 i {
+    float: right;
+}
+
+.Acheivement12352 {
+    padding-bottom: 10px;
+}
+
+.Pikachu2 {
+    color: #ff7700;
+}
+
+#Blaziken2 {
+    color: #fbff00;
+}
+
+#Greninja2 {
+    width: 100%;
+}
+
+.Acheivments3 {
+    font-size: 24px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.Acheivments3 i {
+    float: right;
+}
+
+.Acheivement123523 {
+    padding-bottom: 10px;
+}
+
+.Acheivments4 {
+    font-size: 24px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.Acheivments4 i {
+    float: right;
+}
+
+.Acheivement1235234 {
+    padding-bottom: 10px;
+}
+
+.Pikachu3 {
+    color: #ff7700;
+}
+
+#Blaziken3 {
+    color: #fbff00;
+}
+
+#Greninja3 {
+    width: 100%;
+}
+
+#Victini {
+    padding-top: 2%;
+}
+
+#Hi {
+    width: 44px;
+}
+
+#Pikachu {
+    font-size: 18px;
+}
+
+#Gabriel {
+    background-color: black;
+}
+
+.Lucario {
+    font-size: 24px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.Lucario i {
+    float: right;
+}
+
+.Lucario1 {
+    padding-bottom: 10px;
+}
+
+#Poke {
+    margin: 50px;
+    text-align: center;
+    height: 100px;
+    padding-top: 12px;
+}
+
+#SW {
+    color: whitesmoke;
+    background-color: black;
+}
+
+.blink {
+    font-size: 28px;
+    text-align: center;
+    animation: blink 5s infinite;
+}
+
+@keyframes blink {
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        color: rgb(43, 255, 0);
+        opacity: 0.5;
+        transform: scale(2);
+    }
+
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+#Swampert {
+    color: black;
+}
+
+#XYZ {
+    color: white;
+}
+
+table {
+    width: 1000px;
+    margin-bottom: 20px;
+}
+
+th {
+    text-align: left;
+}
+
+#XY {
+    border: 1px solid white;
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+    color: chartreuse;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 10px;
+    font-size: 20px;
+}
+
+#F {
+    width: 1100px;
+}
+
+#Charizard2 {
+    display: inline;
+}
+
+#Charizard2:hover {
+    background: linear-gradient(lightblue 0%, lightgreen 50%, yellow 100%);
+    font-size: 25px;
+}
+
+.Lucario1231 {
+    font-size: 24px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.Lucario1231 i {
+    float: right;
+}
+
+.Lucario1232 {
+    padding-bottom: 10px;
+}
+
+.Lucario12312 {
+    font-size: 24px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.Lucario12312 i {
+    float: right;
+}
+
+.Lucario12323 {
+    padding-bottom: 10px;
+}
+
+#Any {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    color: skyblue;
+}
+
+#X {
+    color: yellow;
+    background-color: rgb(126, 21, 126);
+}
+
+#Y {
+    background-color: indigo;
+    color: #fbff00;
+}
+
+.Lucario123123 {
+    font-size: 24px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.Lucario123124 i {
+    float: right;
+}
+
+.Lucario123234 {
+    padding-bottom: 10px;
+}
+
+#Z {
+    background-color: blue;
+    color: #fbff00;
+}
+
+#Anyt {
+    color: white;
+}
+
+#Anyt2 {
+    color: black;
+}
+
+.Lucario1231234 {
+    font-size: 24px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.Lucario1231245 i {
+    float: right;
+}
+
+.Lucario1232345 {
+    padding-bottom: 10px;
+}
+
+#A {
+    background-color: green;
+    color: #fbff00;
+}
+
+.Lucario12312345 {
+    font-size: 24px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.Lucario12312456 i {
+    float: right;
+}
+
+.Lucario12323456 {
+    padding-bottom: 10px;
+}
+
+#B {
+    background-color: yellow;
+    color: red;
+}
+
+.Lucario123123456 {
+    font-size: 24px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.Lucario123124567 i {
+    float: right;
+}
+
+.Lucario123234567 {
+    padding-bottom: 10px;
+}
+
+#C {
+    background-color: orange;
+    color: blue;
+}
+
+.Lucario1231234567 {
+    font-size: 24px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.Lucario123124567 i {
+    float: right;
+}
+
+.Lucario1232345678 {
+    padding-bottom: 10px;
+}
+
+#D {
+    background-color: red;
+    color: yellow;
+}
